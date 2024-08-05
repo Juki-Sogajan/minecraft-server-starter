@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 
 # Config
 SERVER_JAR_FILE=
